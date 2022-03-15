@@ -12,7 +12,7 @@ https://cookin-receitas-afetivas.vercel.app/
 2. Chakra UI
 3. Axios
 4. React Router Dom
-5. React Router <Form>
+5. React Hook Form
 6. Yup
 7. React Icons
 8. React Hot Toast
